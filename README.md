@@ -40,9 +40,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/thydd/thydd/output/snake.svg)
-
-###
