@@ -1,42 +1,36 @@
-<h2 align="left">Hi 👋! My name is Thyago and I'm a Backend developer, from Pernambuco, Brasil</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thydd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thydd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
+<!-- HEADER GRADIENTE MODERNO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thyago%20Oliveira%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:512BD4,100:8A2BE2&fontColor=ffffff&fontSize=40&desc=Backend%20Developer%20|%20.NET%20•%20ASP.NET%20•%20C%23&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-oliveira-286b01300/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Em%20Constru%C3%A7%C3%A3o-512BD4?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/thyago-oliveira-286b01300/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+# 🚀 Sobre mim  
+Sou Thyago Oliveira, desenvolvedor backend apaixonado por construir sistemas robustos e escaláveis utilizando o ecossistema Microsoft .NET  
+> “A tecnologia não é apenas sobre código — é sobre conectar pessoas e transformar realidades.”
 
-###
+---
+
+## 💡 Habilidades Principais (Key Skills)  
+- Desenvolvimento de APIs RESTful  
+- Banco de dados relacionais (SQL Server, PostgreSQL) e NoSQL quando aplicável  
+- Princípios Clean Code & SOLID  
+- Controle de versão com Git/GitHub e pipelines de CI/CD  
+- Trabalho colaborativo em times Agile/Scrum, com foco em comunicação, empatia e impacto  
+- Testes unitários e de integração, Mocking e práticas TDD quando possível  
+
+---
+
+## 🛠 Tech Stack – Backend (.NET Ecosystem)  
+- **Linguagens / Frameworks**: C# · .NET 6+ · ASP.NET · Entity Framework  
+- **Arquitetura & Padrões**: Microsserviços · Web API · DDD 
+- **Banco de Dados**: SQL Server · PostgreSQL 
+- **Infraestrutura & DevOps**: Docker · Kubernetes · Azure App Service / Azure Functions · GitHub Actions 
+- **Integrações & Outros**: RabbitMQ / Azure Service Bus (mensageria)
+
+---
