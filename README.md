@@ -28,9 +28,8 @@ Sou Thyago Oliveira, desenvolvedor backend apaixonado por construir sistemas rob
 
 ## 🛠 Tech Stack – Backend (.NET Ecosystem)  
 - **Linguagens / Frameworks**: C# · .NET 6+ · ASP.NET · Entity Framework  
-- **Arquitetura & Padrões**: Microsserviços · Web API · DDD 
+- **Arquitetura & Padrões**: Web API · DDD 
 - **Banco de Dados**: SQL Server · PostgreSQL 
-- **Infraestrutura & DevOps**: Docker · Kubernetes · Azure App Service / Azure Functions · GitHub Actions 
-- **Integrações & Outros**: RabbitMQ / Azure Service Bus (mensageria)
+- **Soon**: RabbitMQ / Azure Service Bus (mensageria) · Microsserviços · Docker · Kubernetes · Azure App Service / Azure Functions · GitHub Actions
 
 ---
